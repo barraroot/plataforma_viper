@@ -32,7 +32,6 @@
         "spatie/laravel-permission": "^6.1",
         "stripe/stripe-php": "^13.6",
         "tymon/jwt-auth": "^2.0",
-        "games-package/games-package": "dev-master",
         "ext-zip": "*"
     },
     "require-dev": {
